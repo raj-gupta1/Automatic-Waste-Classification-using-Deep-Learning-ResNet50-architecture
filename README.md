@@ -42,9 +42,9 @@ Microsoft Research
 <!-- <li>Visual Studio</li> -->
 </ul> </p> 
   <br> 
-<!-- 
-<img src="https://i.ibb.co/DYFfWCz/Screenshot-2021-10-27-162449.jpg"> 
-<img src="https://i.ibb.co/DCXsjbb/Screenshot-2021-10-27-162624.jpg">  -->
+  
+<img src="https://i.ibb.co/bdWGLcj/Screenshot-2021-12-14-232222.png"> 
+<img src="https://i.ibb.co/C1CWmzL/Screenshot-2021-12-14-232416.png">  
 </ul>
 </p>
 <br>  
