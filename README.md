@@ -12,7 +12,7 @@ Microsoft Research
  <p title=Architecture used>  
 <ul>
 <li>ResNet50</li>
-<li> No. of classes: 2</li>
+<li> No. of classes: 2 (Organic and Recyclable) </li>
  </ul></p>  
  <br> 
  
