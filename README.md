@@ -29,7 +29,7 @@ Microsoft Research
  <p title=Libraries used>  
 <ul>
 <li>Numpy , pandas , keras  </li>
-<li>tensorflow , Pillow2 , flask </li> 
+<li>tensorflow ,Opencv , flask </li> 
 </ul> </p> 
   <br>  
  
