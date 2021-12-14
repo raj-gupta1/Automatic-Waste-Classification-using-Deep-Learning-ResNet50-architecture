@@ -1,0 +1,1 @@
+# Automatic-Waste-Classification-using-Deep-Learning-ResNet50-architecture
